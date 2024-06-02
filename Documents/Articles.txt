@@ -1,0 +1,9 @@
+# Robot Batteries
+- [What kind of batteries do robots use?](https://www.redwaypower.com/what-kind-of-batteries-do-robots-use/?gad_source=1&gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADrxJRJtWa5afm-zHV1yHiPZBMtFJxzked9hal1mumKLJlLYB28BAYkaAn5iEALw_wcB) #RedwayPower
+- [Choose the right power source for your robot](https://medium.com/husarion-blog/batteries-choose-the-right-power-source-for-your-robot-5417a3ec19ca) #Medium #HusarionBlog
+
+# Robot Design
+- [Design of Six Legged Spider Robot](https://d1wqtxts1xzle7.cloudfront.net/49731908/Design_of_Six_Legged_Spider_Robot_and_Evolving_Walking-libre.pdf?1476947874=&response-content-disposition=inline%3B+filename%3DDesign_of_Six_Legged_Spider_Robot_and_Ev.pdf&Expires=1717189667&Signature=Dd3lAOoe7DMrTAJvRrYiPwEBn4qE-K
+
+# Videos
+- [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7201876933926727683?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7201876933926727683%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29) #LinkedIn
